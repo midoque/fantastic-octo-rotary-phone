@@ -1,0 +1,6 @@
+{
+  "name": "كروكي المنيا",
+  "description": "تطبيق رسم الكروكي والمخططات المساحية بالخط المزدوج مع الشعار والعلامة المائية للجنة الإشرافية بديوان عام محافظة المنيا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
